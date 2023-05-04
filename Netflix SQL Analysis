@@ -91,4 +91,4 @@ WITH US_entertainment (SELECT show_id, type, date_added,release_year,rating,dura
     FROM netflix 
     WHERE country like '%United States%') 
 
-SELECT date_added
+
